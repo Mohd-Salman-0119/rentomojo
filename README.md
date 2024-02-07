@@ -1,8 +1,4 @@
-# React + Vite
+# Rentomojor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+RentoMojo is an online rental company that offers furniture, appliances, and electronics for monthly rent. Their services are designed to help working professionals who may not be able to afford furnished rental flats. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
