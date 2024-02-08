@@ -4,10 +4,6 @@ import { BsFillChatQuoteFill } from "react-icons/bs";
 import Crousel from "../components/Crousel";
 import PageLink from "../components/PageLink";
 
-// import Navbar from "../components/Navbar";
-
-
-
 const Homepage = () => {
   return (
     <Box>
@@ -22,13 +18,8 @@ const Homepage = () => {
           border="1px solid rgb(245,247,250)"
           marginTop="-50px"
         >
-          {/* <SliderHome />
-          <MyOwlCarousel /> */}
         </Box>
-        {/* <Features />
-        <Reviews /> */}
-        {/* chat icon */}
-        {/* <Footer /> */}
+       
       </Box>
     
     </Box>
